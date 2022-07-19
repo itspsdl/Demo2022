@@ -16,7 +16,7 @@
 
 ### イントロダクション
 
-### Rubik's Cube Solver（内田 悠介）
+### [Rubik's Cube Solver](https://github.com/ucchiee/AndroidRubikCubeSolver)（内田 悠介）
 スクランブルされたルービックキューブの各面の色をカメラを通して読み込み、その状態からルービックキューブを揃えるための解法を計算、表示するアプリケーション。
 
 ### Antipodangle（内野 駿亮）
