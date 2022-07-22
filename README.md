@@ -111,7 +111,7 @@ AndroidからWindowsPCにファイルをWifi経由で共有する事ができる
 この Moving! なら、今の移動速度を確認しながら、移動経路と移動距離を知ることができます。
 Moving! と共にウォーキングのときやサイクリングを！
 
-### [TripL](https://github.com/HinaruhiGithub/TripJump)（吉川 智之）
+### [TripL](https://github.com/HinaruhiGithub/TripL)（吉川 智之）
 20分ほど散歩していったことない店に行ってみたい！
 電車で20分ぐらいゆられてまだ見ない景色を見てみたい！
 けど、目的地がない...
